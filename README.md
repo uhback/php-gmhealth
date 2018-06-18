@@ -34,6 +34,8 @@ Actually, this is just for my private project. So, I can share the admin account
 
 You can see the different navigation after you login as either members or admin.
 
-Public page
+Share docs
 -------------
-http://dochyper.unitec.ac.nz/backu01/gmhealth/index.php
+Public URL: http://dochyper.unitec.ac.nz/backu01/gmhealth/index.php
+
+Design Docs: https://drive.google.com/open?id=1gGpxHn6aE5njCm7qqHOtVxn5Rj2wrtJS
